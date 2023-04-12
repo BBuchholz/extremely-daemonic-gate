@@ -1,112 +1,38 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <p>Welcome to Jacob's Salvage Yard, in the Darkest Heart of Shepton, WI.</p>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br />
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener"
-        >vue-cli documentation</a
-      >.
+      My establishment is located in a one-of-a-kind Liminal Space for those
+      seeking to acquire or dispose of assets that transcend traditional
+      definitions of Place and Time.
     </p>
-    <h3>Installed CLI Plugins</h3>
-    <ul>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
-          target="_blank"
-          rel="noopener"
-          >babel</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa"
-          target="_blank"
-          rel="noopener"
-          >pwa</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-router"
-          target="_blank"
-          rel="noopener"
-          >router</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
-          target="_blank"
-          rel="noopener"
-          >eslint</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript"
-          target="_blank"
-          rel="noopener"
-          >typescript</a
-        >
-      </li>
-    </ul>
-    <h3>Essential Links</h3>
-    <ul>
-      <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
-      </li>
-      <li>
-        <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
-          >Forum</a
-        >
-      </li>
-      <li>
-        <a href="https://chat.vuejs.org" target="_blank" rel="noopener"
-          >Community Chat</a
-        >
-      </li>
-      <li>
-        <a href="https://twitter.com/vuejs" target="_blank" rel="noopener"
-          >Twitter</a
-        >
-      </li>
-      <li>
-        <a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a>
-      </li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li>
-        <a href="https://router.vuejs.org" target="_blank" rel="noopener"
-          >vue-router</a
-        >
-      </li>
-      <li>
-        <a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a>
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/vue-devtools#vue-devtools"
-          target="_blank"
-          rel="noopener"
-          >vue-devtools</a
-        >
-      </li>
-      <li>
-        <a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener"
-          >vue-loader</a
-        >
-      </li>
-      <li>
-        <a
-          href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
-          rel="noopener"
-          >awesome-vue</a
-        >
-      </li>
-    </ul>
+    <p>
+      As a sole proprietor, I take great pride in providing appraisal services
+      for everything from a few curious discoveries to entire estate sales.
+      Whether you're looking to sell off your old digital tinkerings or pass
+      down your family's generational curses, Jacob's Salvage Yard can assist
+      you in the process (no questions asked, and you don't have to explain
+      anything you don't want to, I don't judge, on principle...)
+    </p>
+    <p>
+      In addition to My Appraisal Services, I also broker deals with local
+      builders to find new homes for old assets. I believe in repurposing and
+      upcycling, and I strive to find new life for the items that pass through
+      my doors.
+    </p>
+    <p>
+      At Jacob's Salvage Yard, It is Understood, that each item holds its own
+      unique story and value. I take time to carefully evaluate and assess each
+      piece, personally, ensuring that you receive a fair and accurate
+      appraisal.
+    </p>
+    <p>
+      So come on down to Jacob's Salvage Yard (By Appointment ONLY!) and explore
+      my Vast Collection of physical, digital, ideological, and spiritual
+      curiosities.
+    </p>
+    <p>You never know what treasures you might find.</p>
   </div>
 </template>
 

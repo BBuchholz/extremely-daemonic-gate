@@ -1,7 +1,11 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <img alt="Jacob's Salvage Yard logo" src="../assets/JSY_LOGO.png" />
+    <HelloWorld msg="A Message From Jacob" />
+    <img
+      alt="An AI Generated Image of Jacob in his CurioShop"
+      src="../assets/Jacob_AI_CurioShop.jpg"
+    />
   </div>
 </template>
 
@@ -16,3 +20,10 @@ export default defineComponent({
   },
 });
 </script>
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
